@@ -1,9 +1,9 @@
 import telegram
 
-token = "5522851049:AAFJyVYDdGeYUZrWdtSxJA9eDtvbGmYx3ys"
+token = "텔레그램  봇 토큰"
 
 client = telegram.Bot(token=token)
-chat_id = 5049187295
+chat_id = 123
 
 
 
